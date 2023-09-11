@@ -1,12 +1,14 @@
 # HD-WF1_v7-JWS-Assalaam
 
 Membuat HAIDU HD-WF1v7 running text menjadi controller JWS controller, base controller use esp32-s2
-https://github.com/Eltopinovatif/HD-WF1_v7-JWS-Assalaam/blob/main/README.md
+
 APP link Playstore : https://play.google.com/store/apps/details?id=io.kodular.herrysantoso2012.As_salaamJws
 
-Soft Password = "9999"
-ResetSoft Password = "99999999"
-WiFi Password Default = "12345678" Main suport web : https://assalaamjws.blogspot.com
+* Soft Password = "9999"
+* ResetSoft Password = "99999999"
+	* WiFi Password Default = "12345678"
+Main suport web : https://assalaamjws.blogspot.com
+
 Lisensi : - contac : 089401338686, 085258777353 ASSALAAM ADMIN
 
 Firmware Jws HD-WF2v7 : https://github.com/Eltopinovatif/HD-WF2_v7-JWS-Assalaam
